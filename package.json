@@ -1,0 +1,24 @@
+{
+  "name": "Dinosaurs-OO-JS",
+  "version": "1.0.0",
+  "description": "Object-oriented JavaScript to build an infographic that compares dino to human data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arosa81/Dinosaurs-OO-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arosa81/Dinosaurs-OO-JS/issues"
+  },
+  "homepage": "https://github.com/arosa81/Dinosaurs-OO-JS#readme",
+  "devDependencies": {
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
